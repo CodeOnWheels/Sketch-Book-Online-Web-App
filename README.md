@@ -23,6 +23,10 @@
 
 ---
 
+<img width="1918" height="983" alt="sketchbook_screenshot_1" src="https://github.com/user-attachments/assets/8ed6a915-d651-4170-bdd8-646fbb012a41" />
+
+---
+
 ## 🚀 Quick Start
 
 1. Clone this repository:
